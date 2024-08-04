@@ -45,6 +45,8 @@ I am a creative🎡, time punctual👨‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23F05240.svg?logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-%23246D6F.svg?logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23E23237.svg?logo=angular&logoColor=white"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
