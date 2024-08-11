@@ -81,7 +81,7 @@ I am eager to connect and discuss potential opportunities or collaborations. You
     <a href="#"><img alt="SSMS" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-%232e6c82.svg?logo=microsoft-sql-server&logoColor=white"></a>
 </p>
 
-## 🎖️ GitHub Achievements
+<!-- ## 🎖️ GitHub Achievements
 
 <!-- GitHub Achievements - https://github.com/ryo-ma/github-profile-trophy -->
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> 
