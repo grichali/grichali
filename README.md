@@ -57,7 +57,7 @@ I am eager to connect and discuss potential opportunities or collaborations. You
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23F05240.svg?logo=laravel&logoColor=white"></a>
-    <a href="#"><img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-%23246D6F.svg?logo=.net&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-%23246D6F.svg?logo=.net&logoColor=white"></a>
     <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23E23237.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23003B57.svg?logo=opencv&logoColor=white"></a>
