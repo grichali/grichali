@@ -11,10 +11,7 @@ Hi, I'm Ali Grich!
 </p>
 <hr/>
 <samp>
-My name is Ali Grich, a 21-year-old Computer Engineering student from Morocco, currently in my final year of study.
-
-As a full-stack developer, I have gained extensive experience through various projects, demonstrating my ability to manage and deliver results across all stages of development. My versatility and quick learning skills allow me to adapt to any technology or framework required.
-</samp>
+I’m Ali Grich, a full-stack developer who loves building efficient and scalable solutions. Learning new technologies and tackling challenges at every stage of development
 
 ## 📞 Contact Me
 
