@@ -18,8 +18,6 @@ As a full-stack developer, I have gained extensive experience through various pr
 
 ## 📞 Contact Me
 
-I am eager to connect and discuss potential opportunities or collaborations. You can reach me via LinkedIn or email:
-
 - **LinkedIn**: [linkedin.com/in/grichali](https://www.linkedin.com/in/grichali)
 - **Email**: [aligr578@gmail.com](mailto:aligr578@gmail.com)
 
