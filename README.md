@@ -30,7 +30,7 @@ I’m Ali Grich, a full-stack developer who loves building efficient and scalabl
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
-## 🛠️ My Favorite Tools
+## 🛠️ Tools
 
 ### 👨‍💻 Programming Languages
 
