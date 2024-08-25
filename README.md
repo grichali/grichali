@@ -77,7 +77,7 @@ I’m Ali Grich, a full-stack developer who loves building efficient and scalabl
 </p>
 
 ## 🎖️ GitHub Achievements
-
+  
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"> 
     <img src="https://github-profile-trophy.vercel.app/?username=grichali&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Ali's Achievements" />
