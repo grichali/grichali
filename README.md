@@ -54,6 +54,8 @@ I’m Ali Grich, a full-stack developer who loves building efficient and scalabl
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-%23246D6F.svg?logo=.net&logoColor=white"></a>
     <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23E23237.svg?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="React (TypeScript)" src="https://img.shields.io/badge/React%20(TypeScript)-%2361DAFB.svg?logo=react&logoColor=black"></a>
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23003B57.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
     <a href="#"><img alt="PyQt" src="https://img.shields.io/badge/PyQt-%234B8BBE.svg?logo=python&logoColor=white"></a>
@@ -61,6 +63,7 @@ I’m Ali Grich, a full-stack developer who loves building efficient and scalabl
     <a href="#"><img alt="Swing" src="https://img.shields.io/badge/Swing-%23100D80.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Servlet" src="https://img.shields.io/badge/Servlet-%2312116C.svg?logo=java&logoColor=white"></a>
 </p>
+
 
 ### 💻 Software and Tools
 
