@@ -76,6 +76,9 @@ I’m Ali Grich, a full-stack developer who loves building efficient and scalabl
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%2380D3F7.svg?logo=swagger&logoColor=white"></a>
     <a href="#"><img alt="SSMS" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-%232e6c82.svg?logo=microsoft-sql-server&logoColor=white"></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+
 </p>
 
 ## 🎖️ GitHub Achievements
