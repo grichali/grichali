@@ -24,11 +24,12 @@ I’m Ali Grich, a full-stack developer who loves building efficient and scalabl
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
+    <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grichali&layout=compact&theme=dark&hide=jupyter%20notebook" style="width: 40%;"/>
+  </a>
+  <br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=grichali&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grichali&layout=compact&theme=dark&hide=jupyter%20notebook" style="width: 35%;"/>
   </a>
 </p>
 
